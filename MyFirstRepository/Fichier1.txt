@@ -1,0 +1,5 @@
+Welcome to Learn HTML, the easiest way to learn HTML & CSS online, interactively.
+
+Learning HTML & CSS is essential for any web developer, and does not require to know how to program using JavaScript.
+
+Before you begin, I would recommend that you start out by downloading an HTML & CSS IDE. My personal preference is to use an
